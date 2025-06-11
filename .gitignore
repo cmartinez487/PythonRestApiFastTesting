@@ -1,0 +1,50 @@
+# Archivos generados por Python
+__pycache__/
+.idea/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Archivos de entorno virtual
+venv/
+.env
+*.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Configuración IDE y editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs y cachés
+logs/
+*.log
+*.sqlite3
+db.sqlite3
+
+# Archivos generados por tests
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+
+# Configuración de Docker
+docker-compose.override.yml
+
+# Configuración de Jupyter
+.ipynb_checkpoints/
+
+# Documentación generada automáticamente
+docs/build/
+
+# Alembic (migraciones SQL)
+migrations/versions/
+
+# Archivos de empaquetado
+*.tar.gz
+*.whl
